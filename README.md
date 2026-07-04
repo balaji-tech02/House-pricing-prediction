@@ -1,11 +1,11 @@
 # 🏠 House Price Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 This project builds an end-to-end Machine Learning pipeline to predict house prices based on property characteristics. It covers the complete workflow from data preprocessing and exploratory data analysis (EDA) to feature engineering, model building, evaluation, and future improvement suggestions.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset contains information about residential properties, including:
 
 - Area Type
@@ -20,7 +20,7 @@ The dataset contains information about residential properties, including:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -32,7 +32,7 @@ The dataset contains information about residential properties, including:
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -46,7 +46,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 EDA includes:
 
@@ -60,7 +60,7 @@ EDA includes:
 
 ---
 
-## 🤖 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 The project uses a complete Gradient Boosting Regression pipeline consisting of:
 
@@ -72,7 +72,7 @@ The project uses a complete Gradient Boosting Regression pipeline consisting of:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 Evaluation Metrics:
 
@@ -83,7 +83,7 @@ Evaluation Metrics:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning using GridSearchCV or RandomizedSearchCV
 - Feature importance analysis
@@ -92,7 +92,7 @@ Evaluation Metrics:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 House-pricing-prediction/
@@ -104,8 +104,8 @@ House-pricing-prediction/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Balaji**
 
-Machine Learning Enthusiast | Data Science | Python | AI
+Machine Learning Engineer | Data Science | Python | AI
