@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction using Machine Learning
+# House Price Prediction using Machine Learning
 
 ##  Project Overview
 This project builds an end-to-end Machine Learning pipeline to predict house prices based on property characteristics. It covers the complete workflow from data preprocessing and exploratory data analysis (EDA) to feature engineering, model building, evaluation, and future improvement suggestions.
